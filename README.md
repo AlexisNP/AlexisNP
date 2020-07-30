@@ -1,4 +1,6 @@
-### Hi there 👋
+Hello, I am Alexis, but I usually go by Joururi on the internet. I'm a front-end oriented web developper, and this is where you can expect to see some of my works/creations/nonsense !
+
+I'm currently working at Polux, a UX Agency in Rennes, France, while also learning the intricacies of the internet at My Digital School.
 
 <!--
 **AlexisNP/AlexisNP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
